@@ -5,5 +5,3 @@
 * **Databases:** SQL Server, PostgreSQL
 * **Networking & Security:** Cisco Packet Tracer, Wireshark, Burp Suite, Kali Linux, Nmap, Aircrack -ng suite, Metasploit
 * **Platforms & Tools:** Linux, Ubuntu, Figma, VMWare
-
----
