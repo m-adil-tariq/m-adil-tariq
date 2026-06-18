@@ -26,12 +26,3 @@ Full-stack desktop quiz app with role-based access built with C# .NET WinForms a
 Side-scrolling endless runner game built with C++ and SFML.
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-adil-tariq&layout=compact&theme=tokyonight)
-
----
-
-### Contact & Professional Networks
-
-- **LinkedIn:** [linkedin.com/in/muhammad-adil-a7034237b](https://www.linkedin.com/in/muhammad-adil-a7034237b)
-- **Email:** adilalitariq@gmail.com
